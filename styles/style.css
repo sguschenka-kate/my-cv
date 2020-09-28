@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+img.main-photo {
+    max-height: 450px;
+    border-radius: 1.5%;
+}
+
+.portfolio {
+    display: inline;
+}
+
+.photo {
+    max-width: 400px;
+}
+
+.gc-photo {
+    max-width: 450px;
+}
+
+ul {
+    list-style: none;
+}
+
+ol {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.awful {
+    color: #cd5700 ;
+}
+
+a:visited {
+    color: #cd5700;
+}
+
+li {
+    line-height: 40px;
+}
+
+.nbu {
+    color: #008000;
+}
